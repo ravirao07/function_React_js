@@ -1,7 +1,9 @@
 function Blog()
 {
     return(
-        <h1> Blog page</h1>
+        <div>
+            <h1>Blog page</h1>
+        </div>
     )
 }
 export default Blog
